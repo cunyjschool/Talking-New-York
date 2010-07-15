@@ -1,0 +1,411 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Timm Balouschek <fearblog@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: aperture/search.php:38
+#: aperture/template-blog.php:21
+#: aperture/archive.php:58
+msgid " Older Entries &raquo;"
+msgstr "Ältere Beiträge &raquo;"
+
+#. Text in function
+#: aperture/template-archives.php:58
+#: aperture/template-blog.php:12
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#. Text in function
+#: aperture/comments.php:18
+msgid "% Responses"
+msgstr "% Antworten"
+
+#. Text in function
+#: aperture/search.php:37
+#: aperture/template-blog.php:20
+#: aperture/archive.php:57
+msgid "&laquo; Newer Entries "
+msgstr "&laquo; Neuere Beiträge"
+
+#. Text in function
+#: aperture/template-archives.php:58
+#: aperture/template-blog.php:12
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#. Text in function
+#: aperture/includes/theme-widgets.php:393
+msgid "Account:"
+msgstr "Account:"
+
+#. Text in echo
+#: aperture/header.php:77
+msgid "Advert"
+msgstr "Werbung"
+
+#. Text in echo
+#: aperture/ads/archive_ad.php:7
+#: aperture/ads/widget_300_ad.php:7
+#: aperture/ads/home_leaderboard_ad.php:7
+msgid "Advert "
+msgstr "Werbung"
+
+#. Text in echo
+#: aperture/header.php:13
+#: aperture/header.php:14
+msgid "Archive"
+msgstr "Archiv"
+
+#. Text in echo
+#: aperture/archive.php:25
+msgid "Archive by Author"
+msgstr "Autorenarchiv"
+
+#. Text in echo
+#: aperture/archive.php:21
+#: aperture/archive.php:22
+#: aperture/archive.php:23
+msgid "Archive for"
+msgstr "Archiv für"
+
+#. Text in echo
+#: aperture/archive.php:24
+msgid "Archive for the year"
+msgstr "Jahresarchiv"
+
+#. Text in echo
+#: aperture/single.php:8
+msgid "Archived in "
+msgstr "Archiviert unter"
+
+#. Text in echo
+#: aperture/archive.php:26
+msgid "Archives"
+msgstr "Archive"
+
+#. Text in echo
+#: aperture/header.php:10
+msgid "Author Archives"
+msgstr "Autorarchive"
+
+#. Text in echo
+#: aperture/includes/featured.php:52
+msgid "Back"
+msgstr "Zurück"
+
+#. Text in function
+#: aperture/header.php:48
+msgid "Blog"
+msgstr "Blog"
+
+#. Text in echo
+#: aperture/template-archives.php:17
+msgid "Categories"
+msgstr "Kategorien"
+
+#. Text in echo
+#: aperture/footer.php:17
+msgid "Copyright"
+msgstr "Copyright"
+
+#. Text in echo
+#: aperture/footer.php:17
+msgid "Designed by "
+msgstr "Designed von"
+
+#. Text in echo
+#: aperture/includes/theme-comments.php:15
+msgid "Direct link to this comment"
+msgstr "Direkter Link zum Kommentar"
+
+#. Text in function
+#: aperture/single.php:39
+msgid "Edit this post."
+msgstr "Beitrag bearbeiten"
+
+#. Text in echo
+#: aperture/includes/theme-widgets.php:154
+msgid "Enter your email address"
+msgstr "Gib deine E-Mail-Adresse ein"
+
+#. Text in echo
+#: aperture/404.php:5
+msgid "Error 404 - Page not found!"
+msgstr "404 - Seite nicht gefunden!"
+
+#. Text in echo
+#: aperture/includes/theme-widgets.php:97
+#: aperture/includes/theme-widgets.php:154
+msgid "Flickr Photos"
+msgstr "Flickr Fotos"
+
+#. Text in function
+#: aperture/includes/theme-widgets.php:393
+msgid "Follow us on Twitter"
+msgstr "Folge uns auf Twitter"
+
+#. Text in echo
+#: aperture/includes/featured.php:55
+msgid "Forward"
+msgstr "Vor"
+
+#. Text in echo
+#: aperture/footer.php:17
+msgid "Icons by "
+msgstr "Icons von"
+
+#. Text in echo
+#: aperture/template-archives.php:51
+msgid "Last 30 Posts"
+msgstr "Die 30 neuesten Beiträge"
+
+#. Text in echo
+#: aperture/footer-home.php:15
+msgid "Latest blog posts"
+msgstr "Letzte Beiträge"
+
+#. Text in function
+#: aperture/comments.php:57
+msgid "Leave a Reply"
+msgstr "Hinterlasse einen Kommentar"
+
+#. Text in function
+#: aperture/comments.php:57
+msgid "Leave a Reply to %s"
+msgstr "Hinterlasse einen Kommentar zu %s"
+
+#. Text in echo
+#: aperture/single.php:9
+msgid "Leave a comment"
+msgstr "Hinterlasse einen Kommentar"
+
+#. Text in echo
+#: aperture/comments.php:71
+msgid "Log out &raquo;"
+msgstr "Ausloggen &raquo;"
+
+#. Text in echo
+#: aperture/comments.php:71
+msgid "Logged in as"
+msgstr "Eingeloggt als"
+
+#. Text in echo
+#: aperture/comments.php:79
+msgid "Mail (will not be published)"
+msgstr "Mail (wird nicht veröffentlicht)"
+
+#. Text in echo
+#: aperture/template-archives.php:39
+msgid "Monthly Archives"
+msgstr "Monatsarchive"
+
+#. Text in echo
+#: aperture/comments.php:76
+msgid "Name"
+msgstr "Name"
+
+#. Text in echo
+#: aperture/includes/featured.php:55
+msgid "Next"
+msgstr "Nächster"
+
+#. Text in echo
+#: aperture/single.php:23
+msgid "Next Post"
+msgstr "Nächster Beitrag"
+
+#. Text in function
+#: aperture/template-archives.php:58
+#: aperture/template-blog.php:12
+msgid "No Comments"
+msgstr "Keine Kommentare"
+
+#. Text in echo
+#: aperture/sidebar-home.php:29
+msgid "No Posts Yet"
+msgstr "Bisher keine Beiträge"
+
+#. Text in function
+#: aperture/comments.php:18
+msgid "No Responses"
+msgstr "Keine Antworten"
+
+#. Text in echo
+#: aperture/footer-home.php:50
+msgid "No posts yet"
+msgstr "Bisher keine Beiträge"
+
+#. Text in echo
+#: aperture/archive.php:65
+msgid "Not Found"
+msgstr "Nicht gefunden"
+
+#. Text in function
+#: aperture/comments.php:18
+msgid "One Response"
+msgstr "1 Antwort"
+
+#. Text in echo
+#: aperture/footer-home.php:37
+#: aperture/sidebar-home.php:19
+#: aperture/search.php:18
+msgid "Permalink to "
+msgstr "Permalink zu"
+
+#. Text in echo
+#: aperture/search.php:19
+msgid "Posted in "
+msgstr "Veröffentlicht in"
+
+#. Text in echo
+#: aperture/single.php:7
+msgid "Posted on "
+msgstr "Veröffentlicht am"
+
+#. Text in echo
+#: aperture/includes/featured.php:52
+msgid "Previous"
+msgstr "Vorheriger"
+
+#. Text in echo
+#: aperture/single.php:19
+msgid "Previous Post"
+msgstr "Vorheriger Beitrag"
+
+#. Text in echo
+#: aperture/includes/featured.php:43
+msgid "Read more about me"
+msgstr "Lies mehr über mich"
+
+#. Text in echo
+#: aperture/sidebar-home.php:3
+msgid "Recent Company News"
+msgstr "Neuste Firmen-Nachrichten"
+
+#. Text in echo
+#: aperture/template-archives.php:11
+msgid "Search Options"
+msgstr "Suchoptionen"
+
+#. Text in echo
+#: aperture/header.php:9
+msgid "Search Results"
+msgstr "Suchergebnisse"
+
+#. Text in echo
+#: aperture/searchform.php:3
+msgid "Search for"
+msgstr "Suche nach"
+
+#. Text in function
+#: aperture/template-archives.php:42
+msgid "Select Month"
+msgstr "Monat auswählen"
+
+#. Text in function
+#: aperture/includes/theme-widgets.php:393
+msgid "Show:"
+msgstr "Zeige:"
+
+#. Text in echo
+#: aperture/includes/theme-widgets.php:158
+msgid "Sign"
+msgstr "Sign"
+
+#. Text in echo
+#: aperture/search.php:29
+msgid "Sorry, no posts matched your criteria"
+msgstr "Sorry, keine Beiträge entsprechen deinen Kriterien."
+
+#. Text in echo
+#: aperture/includes/featured.php:58
+msgid "Subscribe to the feed"
+msgstr "Feed abonnieren"
+
+#. Text in echo
+#: aperture/header.php:15
+msgid "Tag Archive"
+msgstr "Tagarchiv"
+
+#. Text in echo
+#: aperture/archive.php:27
+msgid "Tag Archives:"
+msgstr "Tagarchive:"
+
+#. Text in echo
+#: aperture/single.php:12
+msgid "Tags"
+msgstr "Tag"
+
+#. Text in echo
+#: aperture/404.php:6
+msgid "The page you trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for."
+msgstr "Die Seite die du suchst existiert nicht oder ist umgezogen. Bitte benutze das Menü oder die Suche um das zu finden was du suchst."
+
+#. Text in echo
+#: aperture/comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dieser Beitrag ist passwortgeschützt. Gib das Passwort ein um die Kommentare zu sehen."
+
+#. Text in function
+#: aperture/includes/theme-widgets.php:393
+msgid "Title:"
+msgstr "Titel:"
+
+#. Text in echo
+#: aperture/comments.php:32
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackbacks/Pingbacks"
+
+#. Text in function
+#: aperture/includes/theme-widgets.php:393
+msgid "Twitter"
+msgstr "Twitter"
+
+#. Text in echo
+#: aperture/comments.php:82
+msgid "Website"
+msgstr "Website"
+
+#. Text in echo
+#: aperture/search.php:19
+msgid "Written by "
+msgstr "Geschrieben von"
+
+#. Text in echo
+#: aperture/comments.php:64
+msgid "You must be"
+msgstr "Du musst"
+
+#. Text in echo
+#: aperture/search.php:10
+msgid "Your search topic "
+msgstr "Dein Suchbegriff"
+
+#. Text in echo
+#: aperture/comments.php:64
+msgid "logged in"
+msgstr "eingeloggt sein"
+
+#. Text in echo
+#: aperture/search.php:10
+msgid "returned the following articles"
+msgstr "hat folgende Artikel gefunden:"
+
+#. Text in echo
+#: aperture/comments.php:18
+msgid "to"
+msgstr "zu"
+
+#. Text in echo
+#: aperture/comments.php:64
+msgid "to post a comment."
+msgstr "um kommentieren zu können."
+

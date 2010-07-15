@@ -1,0 +1,411 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Bilal Gümüş <noctiluca@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: aperture/search.php:38
+#: aperture/template-blog.php:21
+#: aperture/archive.php:58
+msgid " Older Entries &raquo;"
+msgstr "Eski Yazılar &raquo;"
+
+#. Text in function
+#: aperture/template-archives.php:58
+#: aperture/template-blog.php:12
+msgid "% Comments"
+msgstr "% Yorum"
+
+#. Text in function
+#: aperture/comments.php:18
+msgid "% Responses"
+msgstr "% Yanıt"
+
+#. Text in function
+#: aperture/search.php:37
+#: aperture/template-blog.php:20
+#: aperture/archive.php:57
+msgid "&laquo; Newer Entries "
+msgstr "&laquo; Yeni Yazılar"
+
+#. Text in function
+#: aperture/template-archives.php:58
+#: aperture/template-blog.php:12
+msgid "1 Comment"
+msgstr "1 Yorum"
+
+#. Text in function
+#: aperture/includes/theme-widgets.php:393
+msgid "Account:"
+msgstr "Hesap:"
+
+#. Text in echo
+#: aperture/header.php:77
+msgid "Advert"
+msgstr "Reklam"
+
+#. Text in echo
+#: aperture/ads/archive_ad.php:7
+#: aperture/ads/widget_300_ad.php:7
+#: aperture/ads/home_leaderboard_ad.php:7
+msgid "Advert "
+msgstr "Reklam"
+
+#. Text in echo
+#: aperture/header.php:13
+#: aperture/header.php:14
+msgid "Archive"
+msgstr "Arşiv"
+
+#. Text in echo
+#: aperture/archive.php:25
+msgid "Archive by Author"
+msgstr "Yazara Göre Arşiv"
+
+#. Text in echo
+#: aperture/archive.php:21
+#: aperture/archive.php:22
+#: aperture/archive.php:23
+msgid "Archive for"
+msgstr "Arşiv"
+
+#. Text in echo
+#: aperture/archive.php:24
+msgid "Archive for the year"
+msgstr "Arşiv Yılı"
+
+#. Text in echo
+#: aperture/single.php:8
+msgid "Archived in "
+msgstr "Arşiv Yeri"
+
+#. Text in echo
+#: aperture/archive.php:26
+msgid "Archives"
+msgstr "Arşivler"
+
+#. Text in echo
+#: aperture/header.php:10
+msgid "Author Archives"
+msgstr "Yazar Arşivleri"
+
+#. Text in echo
+#: aperture/includes/featured.php:52
+msgid "Back"
+msgstr "Geri"
+
+#. Text in function
+#: aperture/header.php:48
+msgid "Blog"
+msgstr "Blog"
+
+#. Text in echo
+#: aperture/template-archives.php:17
+msgid "Categories"
+msgstr "Kategoriler"
+
+#. Text in echo
+#: aperture/footer.php:17
+msgid "Copyright"
+msgstr "Telif Hakkı"
+
+#. Text in echo
+#: aperture/footer.php:17
+msgid "Designed by "
+msgstr "Tasarlayan"
+
+#. Text in echo
+#: aperture/includes/theme-comments.php:15
+msgid "Direct link to this comment"
+msgstr "Bu yoruma direkt link"
+
+#. Text in function
+#: aperture/single.php:39
+msgid "Edit this post."
+msgstr "Bu yazıyı düzenle."
+
+#. Text in echo
+#: aperture/includes/theme-widgets.php:154
+msgid "Enter your email address"
+msgstr "Eposta adresinizi giriniz"
+
+#. Text in echo
+#: aperture/404.php:5
+msgid "Error 404 - Page not found!"
+msgstr "Hata 404 - Sayfa bulunamadı!"
+
+#. Text in echo
+#: aperture/includes/theme-widgets.php:97
+#: aperture/includes/theme-widgets.php:154
+msgid "Flickr Photos"
+msgstr "Flickr Fotoğrafları"
+
+#. Text in function
+#: aperture/includes/theme-widgets.php:393
+msgid "Follow us on Twitter"
+msgstr "Twitter'da Takip Et"
+
+#. Text in echo
+#: aperture/includes/featured.php:55
+msgid "Forward"
+msgstr "İleri"
+
+#. Text in echo
+#: aperture/footer.php:17
+msgid "Icons by "
+msgstr "İkonlar"
+
+#. Text in echo
+#: aperture/template-archives.php:51
+msgid "Last 30 Posts"
+msgstr "Son 30 Yazı"
+
+#. Text in echo
+#: aperture/footer-home.php:15
+msgid "Latest blog posts"
+msgstr "Son blog yazısı"
+
+#. Text in function
+#: aperture/comments.php:57
+msgid "Leave a Reply"
+msgstr "Yorum Bırakın"
+
+#. Text in function
+#: aperture/comments.php:57
+msgid "Leave a Reply to %s"
+msgstr "%'a bir Yorum bırakın"
+
+#. Text in echo
+#: aperture/single.php:9
+msgid "Leave a comment"
+msgstr "Yorum Bırakın"
+
+#. Text in echo
+#: aperture/comments.php:71
+msgid "Log out &raquo;"
+msgstr "Çıkış &raquo;"
+
+#. Text in echo
+#: aperture/comments.php:71
+msgid "Logged in as"
+msgstr "Merhaba"
+
+#. Text in echo
+#: aperture/comments.php:79
+msgid "Mail (will not be published)"
+msgstr "Eposta (yayınlanmayacak)"
+
+#. Text in echo
+#: aperture/template-archives.php:39
+msgid "Monthly Archives"
+msgstr "Aylık Arşivler"
+
+#. Text in echo
+#: aperture/comments.php:76
+msgid "Name"
+msgstr "İsim"
+
+#. Text in echo
+#: aperture/includes/featured.php:55
+msgid "Next"
+msgstr "Sonraki"
+
+#. Text in echo
+#: aperture/single.php:23
+msgid "Next Post"
+msgstr "Sonraki Yazı"
+
+#. Text in function
+#: aperture/template-archives.php:58
+#: aperture/template-blog.php:12
+msgid "No Comments"
+msgstr "Yorum Yok"
+
+#. Text in echo
+#: aperture/sidebar-home.php:29
+msgid "No Posts Yet"
+msgstr "Henüz Yazı Yok"
+
+#. Text in function
+#: aperture/comments.php:18
+msgid "No Responses"
+msgstr "Yanıt Yok"
+
+#. Text in echo
+#: aperture/footer-home.php:50
+msgid "No posts yet"
+msgstr "Henüz yazı yok"
+
+#. Text in echo
+#: aperture/archive.php:65
+msgid "Not Found"
+msgstr "Bulunamadı"
+
+#. Text in function
+#: aperture/comments.php:18
+msgid "One Response"
+msgstr "Bir Yanıt"
+
+#. Text in echo
+#: aperture/footer-home.php:37
+#: aperture/sidebar-home.php:19
+#: aperture/search.php:18
+msgid "Permalink to "
+msgstr "Sabit Link"
+
+#. Text in echo
+#: aperture/search.php:19
+msgid "Posted in "
+msgstr "Yer"
+
+#. Text in echo
+#: aperture/single.php:7
+msgid "Posted on "
+msgstr "Tarih"
+
+#. Text in echo
+#: aperture/includes/featured.php:52
+msgid "Previous"
+msgstr "Önceki"
+
+#. Text in echo
+#: aperture/single.php:19
+msgid "Previous Post"
+msgstr "Önceki Yazı"
+
+#. Text in echo
+#: aperture/includes/featured.php:43
+msgid "Read more about me"
+msgstr "Hakkımda daha fazla öğrenin"
+
+#. Text in echo
+#: aperture/sidebar-home.php:3
+msgid "Recent Company News"
+msgstr "Son Şirket Haberleri"
+
+#. Text in echo
+#: aperture/template-archives.php:11
+msgid "Search Options"
+msgstr "Arama Özellikleri"
+
+#. Text in echo
+#: aperture/header.php:9
+msgid "Search Results"
+msgstr "Arama Sonuçları"
+
+#. Text in echo
+#: aperture/searchform.php:3
+msgid "Search for"
+msgstr "Aradığınız"
+
+#. Text in function
+#: aperture/template-archives.php:42
+msgid "Select Month"
+msgstr "Ay Seçin"
+
+#. Text in function
+#: aperture/includes/theme-widgets.php:393
+msgid "Show:"
+msgstr "Göster:"
+
+#. Text in echo
+#: aperture/includes/theme-widgets.php:158
+msgid "Sign"
+msgstr "İşaret"
+
+#. Text in echo
+#: aperture/search.php:29
+msgid "Sorry, no posts matched your criteria"
+msgstr "Üzgünüz, arama kriterlerinize uygun sonuç bulunamadı"
+
+#. Text in echo
+#: aperture/includes/featured.php:58
+msgid "Subscribe to the feed"
+msgstr "RSS bağlantımıza abone ol"
+
+#. Text in echo
+#: aperture/header.php:15
+msgid "Tag Archive"
+msgstr "Etiket Arşivi"
+
+#. Text in echo
+#: aperture/archive.php:27
+msgid "Tag Archives:"
+msgstr "Etiket Arşivleri:"
+
+#. Text in echo
+#: aperture/single.php:12
+msgid "Tags"
+msgstr "Etiketler"
+
+#. Text in echo
+#: aperture/404.php:6
+msgid "The page you trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for."
+msgstr "Aradığınız sayfaya ulaşılamadı. Lütfen aradığınız şeye ulaşmak için menüleri ya da arama kutusunu kullanın."
+
+#. Text in echo
+#: aperture/comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Bu yazı şifre korumalıdır. Yorumları görmek için şifreyi giriniz."
+
+#. Text in function
+#: aperture/includes/theme-widgets.php:393
+msgid "Title:"
+msgstr "Başlık:"
+
+#. Text in echo
+#: aperture/comments.php:32
+msgid "Trackbacks/Pingbacks"
+msgstr "Gelen Bağlantılar"
+
+#. Text in function
+#: aperture/includes/theme-widgets.php:393
+msgid "Twitter"
+msgstr "Twitter"
+
+#. Text in echo
+#: aperture/comments.php:82
+msgid "Website"
+msgstr "Web Sitesi"
+
+#. Text in echo
+#: aperture/search.php:19
+msgid "Written by "
+msgstr "Yazan"
+
+#. Text in echo
+#: aperture/comments.php:64
+msgid "You must be"
+msgstr "Yorum yazmak için"
+
+#. Text in echo
+#: aperture/search.php:10
+msgid "Your search topic "
+msgstr "Arama başlığınız"
+
+#. Text in echo
+#: aperture/comments.php:64
+msgid "logged in"
+msgstr "Giriş"
+
+#. Text in echo
+#: aperture/search.php:10
+msgid "returned the following articles"
+msgstr "aşağıdaki sonuçları getirdi"
+
+#. Text in echo
+#: aperture/comments.php:18
+msgid "to"
+msgstr "-"
+
+#. Text in echo
+#: aperture/comments.php:64
+msgid "to post a comment."
+msgstr "yapmalısınız."
+

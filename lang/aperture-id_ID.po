@@ -1,0 +1,411 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ryan Riatno <ponzicrawl@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: aperture/search.php:38
+#: aperture/template-blog.php:21
+#: aperture/archive.php:58
+msgid " Older Entries &raquo;"
+msgstr "Tulisan Sebelumnya &raquo;"
+
+#. Text in function
+#: aperture/template-archives.php:58
+#: aperture/template-blog.php:12
+msgid "% Comments"
+msgstr "% Komentar"
+
+#. Text in function
+#: aperture/comments.php:18
+msgid "% Responses"
+msgstr "% Tanggapan"
+
+#. Text in function
+#: aperture/search.php:37
+#: aperture/template-blog.php:20
+#: aperture/archive.php:57
+msgid "&laquo; Newer Entries "
+msgstr "&laquo; Tulisan Selanjutnya"
+
+#. Text in function
+#: aperture/template-archives.php:58
+#: aperture/template-blog.php:12
+msgid "1 Comment"
+msgstr "1 Komentar"
+
+#. Text in function
+#: aperture/includes/theme-widgets.php:393
+msgid "Account:"
+msgstr "Akun:"
+
+#. Text in echo
+#: aperture/header.php:77
+msgid "Advert"
+msgstr "Iklan"
+
+#. Text in echo
+#: aperture/ads/archive_ad.php:7
+#: aperture/ads/widget_300_ad.php:7
+#: aperture/ads/home_leaderboard_ad.php:7
+msgid "Advert "
+msgstr "Iklan"
+
+#. Text in echo
+#: aperture/header.php:13
+#: aperture/header.php:14
+msgid "Archive"
+msgstr "Arsip"
+
+#. Text in echo
+#: aperture/archive.php:25
+msgid "Archive by Author"
+msgstr "Arsip Penulis"
+
+#. Text in echo
+#: aperture/archive.php:21
+#: aperture/archive.php:22
+#: aperture/archive.php:23
+msgid "Archive for"
+msgstr "Arsip untuk"
+
+#. Text in echo
+#: aperture/archive.php:24
+msgid "Archive for the year"
+msgstr "Arsip tahun "
+
+#. Text in echo
+#: aperture/single.php:8
+msgid "Archived in "
+msgstr "Arsip pada"
+
+#. Text in echo
+#: aperture/archive.php:26
+msgid "Archives"
+msgstr "Arsip"
+
+#. Text in echo
+#: aperture/header.php:10
+msgid "Author Archives"
+msgstr "Arsip Penulis"
+
+#. Text in echo
+#: aperture/includes/featured.php:52
+msgid "Back"
+msgstr "Kembali"
+
+#. Text in function
+#: aperture/header.php:48
+msgid "Blog"
+msgstr "Blog"
+
+#. Text in echo
+#: aperture/template-archives.php:17
+msgid "Categories"
+msgstr "Kategori"
+
+#. Text in echo
+#: aperture/footer.php:17
+msgid "Copyright"
+msgstr "Hak Cipta"
+
+#. Text in echo
+#: aperture/footer.php:17
+msgid "Designed by "
+msgstr "Didesain Oleh"
+
+#. Text in echo
+#: aperture/includes/theme-comments.php:15
+msgid "Direct link to this comment"
+msgstr "Tautan langsung untuk komentar ini"
+
+#. Text in function
+#: aperture/single.php:39
+msgid "Edit this post."
+msgstr "Ubah tulisan ini."
+
+#. Text in echo
+#: aperture/includes/theme-widgets.php:154
+msgid "Enter your email address"
+msgstr "Masukan alamat e-mail anda"
+
+#. Text in echo
+#: aperture/404.php:5
+msgid "Error 404 - Page not found!"
+msgstr "Error 404 - Halaman tidak ditemukan!"
+
+#. Text in echo
+#: aperture/includes/theme-widgets.php:97
+#: aperture/includes/theme-widgets.php:154
+msgid "Flickr Photos"
+msgstr "Foto Flickr"
+
+#. Text in function
+#: aperture/includes/theme-widgets.php:393
+msgid "Follow us on Twitter"
+msgstr "Follow us on Twitter"
+
+#. Text in echo
+#: aperture/includes/featured.php:55
+msgid "Forward"
+msgstr "Forward"
+
+#. Text in echo
+#: aperture/footer.php:17
+msgid "Icons by "
+msgstr "Ikon oleh"
+
+#. Text in echo
+#: aperture/template-archives.php:51
+msgid "Last 30 Posts"
+msgstr "30 Tulisan terakhir"
+
+#. Text in echo
+#: aperture/footer-home.php:15
+msgid "Latest blog posts"
+msgstr "Tulisan blog terakhir"
+
+#. Text in function
+#: aperture/comments.php:57
+msgid "Leave a Reply"
+msgstr "Berikan Komentar"
+
+#. Text in function
+#: aperture/comments.php:57
+msgid "Leave a Reply to %s"
+msgstr "Berikan komentar untuk %s"
+
+#. Text in echo
+#: aperture/single.php:9
+msgid "Leave a comment"
+msgstr "Berikan komentar"
+
+#. Text in echo
+#: aperture/comments.php:71
+msgid "Log out &raquo;"
+msgstr "Keluar &raquo;"
+
+#. Text in echo
+#: aperture/comments.php:71
+msgid "Logged in as"
+msgstr "Masuk sebagai"
+
+#. Text in echo
+#: aperture/comments.php:79
+msgid "Mail (will not be published)"
+msgstr "Mail (tidak akan ditampilkan)"
+
+#. Text in echo
+#: aperture/template-archives.php:39
+msgid "Monthly Archives"
+msgstr "Arsip Bulanan"
+
+#. Text in echo
+#: aperture/comments.php:76
+msgid "Name"
+msgstr "Nama"
+
+#. Text in echo
+#: aperture/includes/featured.php:55
+msgid "Next"
+msgstr "Selanjutnya"
+
+#. Text in echo
+#: aperture/single.php:23
+msgid "Next Post"
+msgstr "Tulisan Selanjutnya"
+
+#. Text in function
+#: aperture/template-archives.php:58
+#: aperture/template-blog.php:12
+msgid "No Comments"
+msgstr "Belum ada komentar"
+
+#. Text in echo
+#: aperture/sidebar-home.php:29
+msgid "No Posts Yet"
+msgstr "Belum ada tulisan"
+
+#. Text in function
+#: aperture/comments.php:18
+msgid "No Responses"
+msgstr "Tidak ada tanggapan"
+
+#. Text in echo
+#: aperture/footer-home.php:50
+msgid "No posts yet"
+msgstr "Belum ada tulisan"
+
+#. Text in echo
+#: aperture/archive.php:65
+msgid "Not Found"
+msgstr "Tidak ditemukan"
+
+#. Text in function
+#: aperture/comments.php:18
+msgid "One Response"
+msgstr "Satu Tanggapan"
+
+#. Text in echo
+#: aperture/footer-home.php:37
+#: aperture/sidebar-home.php:19
+#: aperture/search.php:18
+msgid "Permalink to "
+msgstr "Permalink untuk"
+
+#. Text in echo
+#: aperture/search.php:19
+msgid "Posted in "
+msgstr "Ditulis di dalam"
+
+#. Text in echo
+#: aperture/single.php:7
+msgid "Posted on "
+msgstr "Ditulis pada"
+
+#. Text in echo
+#: aperture/includes/featured.php:52
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#. Text in echo
+#: aperture/single.php:19
+msgid "Previous Post"
+msgstr "Tulisan Sebelumnya"
+
+#. Text in echo
+#: aperture/includes/featured.php:43
+msgid "Read more about me"
+msgstr "Baca tentang saya selengkapnya"
+
+#. Text in echo
+#: aperture/sidebar-home.php:3
+msgid "Recent Company News"
+msgstr "Berita Perusahaan Terbaru"
+
+#. Text in echo
+#: aperture/template-archives.php:11
+msgid "Search Options"
+msgstr "Pilihan Pencarian"
+
+#. Text in echo
+#: aperture/header.php:9
+msgid "Search Results"
+msgstr "Hasil Pencarian"
+
+#. Text in echo
+#: aperture/searchform.php:3
+msgid "Search for"
+msgstr "Cari untuk"
+
+#. Text in function
+#: aperture/template-archives.php:42
+msgid "Select Month"
+msgstr "Pilih Bulan"
+
+#. Text in function
+#: aperture/includes/theme-widgets.php:393
+msgid "Show:"
+msgstr "Tampilkan:"
+
+#. Text in echo
+#: aperture/includes/theme-widgets.php:158
+msgid "Sign"
+msgstr "Sign"
+
+#. Text in echo
+#: aperture/search.php:29
+msgid "Sorry, no posts matched your criteria"
+msgstr "Maaf, tidak ada tulisan yang seseua dengan kriteria pencarian anda"
+
+#. Text in echo
+#: aperture/includes/featured.php:58
+msgid "Subscribe to the feed"
+msgstr "Berlangganan feed"
+
+#. Text in echo
+#: aperture/header.php:15
+msgid "Tag Archive"
+msgstr "Arsip Tag"
+
+#. Text in echo
+#: aperture/archive.php:27
+msgid "Tag Archives:"
+msgstr "Arsip Tag:"
+
+#. Text in echo
+#: aperture/single.php:12
+msgid "Tags"
+msgstr "Tags"
+
+#. Text in echo
+#: aperture/404.php:6
+msgid "The page you trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for."
+msgstr "Halaman yang anda cari tidak ada, atau sudah dipindahkan. Silahkan gunakan menu atau kotak pencarian untuk proses pencarian"
+
+#. Text in echo
+#: aperture/comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Tulisan ini dilindungi oleh password. Masukan password untuk melihat komentar."
+
+#. Text in function
+#: aperture/includes/theme-widgets.php:393
+msgid "Title:"
+msgstr "Judul:"
+
+#. Text in echo
+#: aperture/comments.php:32
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackbacks/Pingbacks"
+
+#. Text in function
+#: aperture/includes/theme-widgets.php:393
+msgid "Twitter"
+msgstr "Twitter"
+
+#. Text in echo
+#: aperture/comments.php:82
+msgid "Website"
+msgstr "Website"
+
+#. Text in echo
+#: aperture/search.php:19
+msgid "Written by "
+msgstr "Ditulis oleh"
+
+#. Text in echo
+#: aperture/comments.php:64
+msgid "You must be"
+msgstr "Anda harus menjadi"
+
+#. Text in echo
+#: aperture/search.php:10
+msgid "Your search topic "
+msgstr "Topik pencarian anda"
+
+#. Text in echo
+#: aperture/comments.php:64
+msgid "logged in"
+msgstr "Masuk"
+
+#. Text in echo
+#: aperture/search.php:10
+msgid "returned the following articles"
+msgstr "kembli ke artikel berikut"
+
+#. Text in echo
+#: aperture/comments.php:18
+msgid "to"
+msgstr "untuk"
+
+#. Text in echo
+#: aperture/comments.php:64
+msgid "to post a comment."
+msgstr "untuk meberikan komentar."
+

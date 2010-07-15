@@ -1,0 +1,91 @@
+#logo img{
+margin-top:15px;
+}
+
+#searchbar{
+float:right;
+margin-top:40px;
+}
+
+#splash {
+background: transparent url(http://talkingnewyork.com/wp-content/uploads/2010/05/bg1.jpg) no-repeat;
+height:600px;
+}
+
+.desc {
+position:absolute;
+font-family:courier, sans-serif;
+z-index:2;
+top:60px;
+left:50px;
+width:175px;
+height:226px;
+padding:16px 25px 20px 20px;
+background: url(http://talkingnewyork.com/wp-content/uploads/2010/05/desc.png) no-repeat;
+float:left;
+}
+
+.video1{
+position:absolute;
+z-index:4;
+top:45px;
+left:270px;
+padding:25px 50px 20px 45px;
+background: transparent url(http://talkingnewyork.com/wp-content/uploads/2010/05/video1.png) no-repeat
+}
+
+.video2{
+position:absolute;
+right:55px;
+top:70px;
+z-index:2;
+padding:25px 50px 20px 40px;
+background: transparent url(http://talkingnewyork.com/wp-content/uploads/2010/05/video2.png) no-repeat
+}
+
+.video3 {
+position:absolute;
+bottom:25px;
+left:80px;
+padding:25px 50px 35px 35px;
+background: transparent url(http://talkingnewyork.com/wp-content/uploads/2010/05/video3.png) no-repeat;
+}
+
+.video4 {
+position:absolute;
+bottom:20px;
+right:130px;
+padding:20px 35px 25px 25px;
+z-index:3;
+background: transparent url(http://talkingnewyork.com/wp-content/uploads/2010/05/video4.png) no-repeat;
+}
+
+.text1, .text2, .text3, .text4{
+text-align:center;
+font-weight:bold;
+font-size:1.5em;
+}
+
+.text1, .text2, .text3, .text4 {
+margin-top:10px;
+}
+
+.teaser{
+width:33%;
+float:left;
+}
+
+.teaser img{
+border:5px solid #eeeeee;
+}
+
+.teaser h4{
+line-height:1.5em;
+}
+
+p.post_byline{
+font-size:1.2em;
+color:#181818;
+line-height:1.5em;
+padding-bottom:1em !important;
+}
