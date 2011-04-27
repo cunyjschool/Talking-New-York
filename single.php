@@ -4,7 +4,7 @@
 			
             <div class="grid_16 alpha"> <h2 class="single"><?php the_title(); ?></h2></div>
             <div class="grid_4 alpha">
-            <p class="post_meta post_byline"><span class="byline">By <?php coauthors_posts_links(); ?></span></p>
+            <p class="post_meta post_byline"><span class="byline">By <?php if ( function_exists( 'coauthors_posts_links' ) ) : ?><?php coauthors_posts_links(); ?><?php else: ?><?php the_author_posts_link(); ?><?php endif; ?></span></p>
             <p class="post_meta"><span class="date"><?php _e('Posted on ',woothemes); ?> <?php the_time('F jS, Y') ?></span></p>
             <p class="post_meta"><span class="details"><?php _e('Archived in ',woothemes); ?> <?php the_category(', ') ?></span></p>
             <p class="post_meta"><span class="comments"><a href="#respond"><?php _e('Leave a comment',woothemes); ?></a></span></p>
